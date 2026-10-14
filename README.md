@@ -1,6 +1,6 @@
 # Basic Next.js site
 
-A barebones Next.js App Router project with React, plain JavaScript, and simple CSS.
+A barebones Next.js App Router project with React, TypeScript, and simple CSS.
 
 ## Run locally
 
@@ -13,11 +13,11 @@ Open http://localhost:3000.
 
 ## Pages
 
-- `/` — Home (`app/page.js`)
-- `/about` — About (`app/about/page.js`)
-- `/contact` — Contact (`app/contact/page.js`)
+- `/` — Home (`app/page.tsx`)
+- `/about` — About (`app/about/page.tsx`)
+- `/contact` — Contact (`app/contact/page.tsx`)
 
-Shared navigation lives in `app/layout.js` and styles in `app/globals.css`.
+Shared navigation lives in `app/layout.tsx` and styles in `app/globals.css`.
 Replace the example email address in the Contact page with your own.
 
 ## Production
