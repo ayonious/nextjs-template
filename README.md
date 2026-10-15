@@ -1,5 +1,8 @@
 # Basic Next.js site
 
+[![CI](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml/badge.svg)](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/ayonious/nextjs-template/graph/badge.svg)](https://codecov.io/gh/ayonious/nextjs-template)
+
 A barebones Next.js App Router project with React, TypeScript, and simple CSS.
 
 ## Run locally
@@ -18,6 +21,7 @@ yarn test
 ```
 
 Use `yarn test:watch` while developing to rerun affected tests after changes.
+Run `yarn test:coverage` to generate a local coverage report.
 
 ## Pages
 
