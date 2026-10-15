@@ -11,6 +11,14 @@ yarn dev
 
 Open http://localhost:3000.
 
+## Test
+
+```sh
+yarn test
+```
+
+Use `yarn test:watch` while developing to rerun affected tests after changes.
+
 ## Pages
 
 - `/` — Home (`app/page.tsx`)
