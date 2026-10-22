@@ -1,6 +1,7 @@
 # Basic Next.js site
 
-[![CI](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml/badge.svg)](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml)
+[![CI](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml)
+[![Coverage Tests](https://github.com/ayonious/nextjs-template/actions/workflows/codecov.yml/badge.svg?branch=master)](https://github.com/ayonious/nextjs-template/actions/workflows/codecov.yml)
 [![codecov](https://codecov.io/gh/ayonious/nextjs-template/graph/badge.svg)](https://codecov.io/gh/ayonious/nextjs-template)
 
 A barebones Next.js App Router project with React, TypeScript, and simple CSS.
