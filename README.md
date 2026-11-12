@@ -1,9 +1,11 @@
 # Basic Next.js site
 
-[![CI](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ayonious/nextjs-template/actions/workflows/ci.yml)
-[![Coverage Tests](https://github.com/ayonious/nextjs-template/actions/workflows/codecov.yml/badge.svg?branch=master)](https://github.com/ayonious/nextjs-template/actions/workflows/codecov.yml)
-[![Cypress Tests](https://github.com/ayonious/nextjs-template/actions/workflows/cypress.yml/badge.svg?branch=master)](https://github.com/ayonious/nextjs-template/actions/workflows/cypress.yml)
-[![codecov](https://codecov.io/gh/ayonious/nextjs-template/branch/master/graph/badge.svg?token=sBDqPNO0kH)](https://codecov.io/gh/ayonious/nextjs-template)
+
+
+[![CI](https://github.com/ayonious/template-nextjs/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/ayonious/template-nextjs/actions/workflows/ci.yml)
+[![Coverage Tests](https://github.com/ayonious/template-nextjs/actions/workflows/codecov.yml/badge.svg?branch=master)](https://github.com/ayonious/template-nextjs/actions/workflows/codecov.yml)
+[![Cypress Tests](https://github.com/ayonious/template-nextjs/actions/workflows/cypress.yml/badge.svg?branch=master)](https://github.com/ayonious/template-nextjs/actions/workflows/cypress.yml)
+[![codecov](https://codecov.io/gh/ayonious/template-nextjs/branch/master/graph/badge.svg?token=sBDqPNO0kH)](https://codecov.io/gh/ayonious/template-nextjs)
 
 A barebones Next.js App Router project with React, TypeScript, and simple CSS.
 
